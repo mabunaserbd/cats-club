@@ -1,0 +1,1 @@
+-- SQL schema for check-ins, upgrades, referrals

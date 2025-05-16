@@ -1,0 +1,1 @@
+// JavaScript for Cats Club UI interactions
